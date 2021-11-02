@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/GiorgiKeburia/DemoFoodOrderApp.git/static/css/main.140a368d.chunk.css",
+    "main.js": "/GiorgiKeburia/DemoFoodOrderApp.git/static/js/main.b5fbbb34.chunk.js",
+    "main.js.map": "/GiorgiKeburia/DemoFoodOrderApp.git/static/js/main.b5fbbb34.chunk.js.map",
+    "runtime-main.js": "/GiorgiKeburia/DemoFoodOrderApp.git/static/js/runtime-main.7d22dc2d.js",
+    "runtime-main.js.map": "/GiorgiKeburia/DemoFoodOrderApp.git/static/js/runtime-main.7d22dc2d.js.map",
+    "static/js/2.0e071eb0.chunk.js": "/GiorgiKeburia/DemoFoodOrderApp.git/static/js/2.0e071eb0.chunk.js",
+    "static/js/2.0e071eb0.chunk.js.map": "/GiorgiKeburia/DemoFoodOrderApp.git/static/js/2.0e071eb0.chunk.js.map",
+    "index.html": "/GiorgiKeburia/DemoFoodOrderApp.git/index.html",
+    "static/css/main.140a368d.chunk.css.map": "/GiorgiKeburia/DemoFoodOrderApp.git/static/css/main.140a368d.chunk.css.map",
+    "static/js/2.0e071eb0.chunk.js.LICENSE.txt": "/GiorgiKeburia/DemoFoodOrderApp.git/static/js/2.0e071eb0.chunk.js.LICENSE.txt",
+    "static/media/back.f21d51f0.jpg": "/GiorgiKeburia/DemoFoodOrderApp.git/static/media/back.f21d51f0.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7d22dc2d.js",
+    "static/js/2.0e071eb0.chunk.js",
+    "static/css/main.140a368d.chunk.css",
+    "static/js/main.b5fbbb34.chunk.js"
+  ]
+}
