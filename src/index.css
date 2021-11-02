@@ -11,9 +11,9 @@ html {
 body {
 	margin: 0;
 	background-color: #ffffff;
-	background-image: url('.//assets/mealbig.jpg');
+	/* background-image: url('.//assets/mealbig.jpg');
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 	background-position: center;
-	background-size: cover;
+	background-size: cover; */
 }

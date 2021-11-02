@@ -35,6 +35,7 @@ const AvailableMeals = () => {
 	return (
 		<section className={classes.meals}>
 			<Card>
+				<h3 className={classes.h3}>Order Now!</h3>
 				<ul>{mealList}</ul>
 			</Card>
 		</section>
