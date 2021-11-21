@@ -1,30 +1,39 @@
 .meals {
-	width: 100%;
-	margin: 0;
-	padding: 0;
-	animation: meals-appear 1s ease-out forwards;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  animation: meals-appear 1s ease-out forwards;
 }
 
 .meals ul {
-	list-style: none;
-	margin: 0;
-	padding: 0;
+  list-style: none;
+  margin: 0;
+  padding: 0;
 }
 .h3 {
-	text-align: center;
-	background: rgb(39, 39, 39);
-	color: white;
-	padding: 1rem;
-	width: 100%;
+  text-align: center;
+  background: rgb(39, 39, 39);
+  color: white;
+  padding: 1rem;
+  width: 100%;
 }
-@keyframes meals-appear {
-	from {
-		opacity: 0;
-		transform: translateY(3rem);
-	}
+.loading-text {
+  align-items: center;
+  color: black;
+}
+.loading-text--error {
+  align-items: center;
+  color: rgb(255, 0, 0);
+}
 
-	to {
-		opacity: 1;
-		transform: translateY(0);
-	}
+@keyframes meals-appear {
+  from {
+    opacity: 0;
+    transform: translateY(3rem);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
 }
